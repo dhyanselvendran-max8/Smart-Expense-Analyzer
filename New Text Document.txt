@@ -1,0 +1,2 @@
+cd "OneDrive\Desktop\expens"
+python -m streamlit run app.py
